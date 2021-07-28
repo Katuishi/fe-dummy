@@ -1,0 +1,27 @@
+.box-inputURL{
+    border-radius: 10px;
+    border: 2px solid rgb(17, 129, 228);
+    display: grid;
+    place-items: center;
+    width: 80%;
+    height: 4rem;
+}
+
+form{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.url{
+    height: 2rem;
+}
+
+.submit{
+    border: none;
+    border-radius: 10px;
+    width: 9rem;
+    height: 2rem;
+    color: white;
+    background-color: rgb(17, 129, 228);
+}
